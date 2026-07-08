@@ -4,7 +4,7 @@
 
 ## 启动项参考
 ```
--perfectworld -novid -high -nojoy -allow_third_party_software +exec autoexec.cfg
+-perfectworld -novid -nojoy -d3d9ex -freq 240 -tickrate 128 +exec autoexec.cfg
 ```
 
 ## 📁 包含文件

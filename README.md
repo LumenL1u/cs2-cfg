@@ -2,6 +2,11 @@
 
 本仓库/文件夹包含了适用于《反恐精英 2》(CS2) 的个人优化配置及专业的跑图练习脚本。通过加载这些配置，你可以优化游戏性能、统一键位绑定，并获得极佳的单人或完美平台跑图体验。
 
+## 启动项参考
+```
+-perfectworld -novid -high -nojoy -allow_third_party_software +exec autoexec.cfg
+```
+
 ## 📁 包含文件
 
 - **`autoexec.cfg`**: 核心自动执行文件，包含网络优化、UI 调整、一键购买及日常竞技键位绑定。
